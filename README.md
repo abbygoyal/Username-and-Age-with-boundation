@@ -1,5 +1,5 @@
 ## USERNAME & AGE with BOUNDATION
-Add Username and Age using validation
+Add Username and Age using validation.
 
 ## Live Project Link
 [Project](https://username-age-with-boundation.netlify.app/)
